@@ -8,8 +8,8 @@ Computer Science Engineer | Data Engineering | Web Development
 
 I'm interested in Data Engineering, Data Analytics and Web Development.
 
-- 🔭 Currently working on Azure Databricks End-to-End Data Engineering Project
-- 🌱 Learning PySpark, Apache Spark and Data Engineering
+- 🔭 Currently building on Azure Databricks End-to-End Data Project
+- 🌱 Learning PySpark, Apache Spark and pipelining
 - 💻 150+ DSA problems solved
 - 🎓 Computer Science & Engineering, VIT
 
