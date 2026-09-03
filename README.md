@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Aditya Sharma</h1>
 
 <p align="center">
-Computer Science Engineer | Web Development
+Computer Science | Software Development
 </p>
 
 ## 👨‍💻 About Me
